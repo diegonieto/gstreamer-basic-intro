@@ -1,0 +1,67 @@
+#!/bin/bash
+ 
+sudo apt update
+sudo apt install -y \
+base-passwd \
+bison \
+bsdutils \
+build-essential \
+cargo \
+cmake \
+curl \
+dash \
+diffutils \
+efibootmgr \
+findutils \
+flex \
+fonts-indic \
+git \
+gnome-user-docs-es \
+grep \
+grub-common \
+grub-efi-amd64-bin \
+grub-efi-amd64-signed \
+grub-gfxpayload-lists \
+grub-pc \
+grub-pc-bin \
+grub2-common \
+gzip \
+hostname \
+hyphen-en-us \
+hyphen-es \
+init \
+libdebconfclient0 \
+libflashrom1 \
+libftdi1-2 \
+libllvm13 \
+libpciaccess-dev \
+librust-wayland-commons-dev \
+libssl-dev \
+libwayland-client0 \
+libxml2 \
+libxml2-dev \
+linux-generic-hwe-22.04 \
+linux-headers-6.2.0-26-generic \
+login \
+meson \
+mokutil \
+mythes-en-us \
+mythes-es \
+nasm \
+ncurses-base \
+ncurses-bin \
+net-tools \
+open-vm-tools-desktop \
+openssh-server \
+openssl \
+os-prober \
+pkg-config \
+python3 \
+rustc \
+shim-signed \
+ubuntu-desktop-minimal \
+ubuntu-minimal \
+ubuntu-standard \
+vim \
+wayland-protocols \
+xdot
