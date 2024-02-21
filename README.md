@@ -1,6 +1,7 @@
 # GStreamer quick overview tutorial
 This is part of a 90min GStreamer introduction to showcase the benefits of
-GStreamer. This will be distributed with a VirtualBox machine with Ubuntu 22.04.
+GStreamer. This will be distributed with a VirtualBox machine with [Ubuntu 22.04.](https://mega.nz/file/celAFTCT#0z53F-WwgnCwrjyfz0Z39QRaVR9CO-2y12FgZsnNCfw). Please, import the V.M., run it, and then
+follow the next steps.
 
 ## Environment
 We are gonna use a GStreamer build v1.22.0. We need to load the environment.
